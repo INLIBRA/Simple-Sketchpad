@@ -1,0 +1,38 @@
+#grid {
+	width: 960px;
+	height: 960px;
+	margin: 30px auto;
+}
+
+h1 {
+	text-align: center;
+	color: blue;
+	margin-top: 20px;
+	font-size: 2.5em;
+	text-shadow: 2px 2px 3px black;
+	letter-spacing: 2px;
+}
+
+#buttons {
+	margin: 5px auto;
+	text-align: center;
+}
+
+.button {
+	padding: 5px;
+	margin: 0 0.5%;
+	width: 130px;
+	box-shadow: 2px 2px 1px blue;
+	border: 1px solid black;
+	color: black;
+	font-size: 1em;
+	font-weight: 400;
+	border-radius: 0 30%;
+}
+
+#instruction {
+	text-align: center;
+	color: rgba(100, 100, 100, 0.7);
+	font-size: 1.2em;
+}
+
